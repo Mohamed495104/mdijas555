@@ -1,5 +1,5 @@
 # mdijas555
-# Hey, I’m Mohamed Ijas 👋
+# Hey, This is Mohamed Ijas 👋
 
 I’m a passionate developer transitioning into a **full-stack web developer**, sharpening my web development skills at **Conestoga College**. With over 3 years of IT experience as a **Systems Engineer at Infosys, Chennai**, I’ve supported global clients like Mercedes-Benz Japan, delivering L2 application support, mentoring teams, and solving complex challenges with tools like SAP, ServiceNow, and AWS.
 
