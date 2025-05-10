@@ -17,7 +17,7 @@ Now, I’m diving deep into **web development**, mastering **JavaScript, HTML, C
 - Aiming to freelance and contribute to open-source.
 
 ## 📫 Let’s Connect
-- [LinkedIn](www.linkedin.com/in/mohamedijas03)
+- [LinkedIn]([www.linkedin.com/in/mohamedijas03](https://www.linkedin.com/in/mohamedijas03/))
 - [Email](mailto:mdijas555@gmail.com)
 
 Explore my repos to see my journey from enterprise support to full-stack mastery!
